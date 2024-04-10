@@ -1,0 +1,20 @@
+{
+    "card1": [
+        {
+            "status": "unresolved",
+            "amount": 60
+        },
+        {
+            "status": "overdue",
+            "amount": 16
+        },
+        {
+            "status": "open",
+            "amount": 43
+        },
+        {
+            "status": "on hold",
+            "amount": 6
+        }
+    ]
+}
